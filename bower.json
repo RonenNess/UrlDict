@@ -1,0 +1,25 @@
+{
+  "name": "urldict",
+  "version": "1.0.0",
+  "homepage": "https://ronenness.github.io/UrlDict/",
+  "authors": [
+    "Ronen Ness <ronenness@gmail.com>"
+  ],
+  "description": "URL parameters parser for Node.js and browsers.",
+  "keywords": [
+	"url",
+	"GET params",
+    "parse",
+    "parameters",
+	"urls"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "main": "dist/urldict.js"
+}
